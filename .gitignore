@@ -11,6 +11,7 @@ out/
 docs/
 
 # Dotenv file
+.env
 
-.DS_Store
-zkout/
+broadcast/
+lib/
